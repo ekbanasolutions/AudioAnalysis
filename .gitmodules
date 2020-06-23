@@ -1,3 +1,6 @@
 [submodule "AudioBasic"]
 	path = AudioBasic
 	url = https://github.com/ekbanasolutions/AudioBasic.git
+[submodule "audio_course"]
+	path = audio_course
+	url = https://github.com/ekbanasolutions/Audio-Analysis-Course-Guide.git
