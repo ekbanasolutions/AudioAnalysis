@@ -1,0 +1,3 @@
+[submodule "AudioBasic"]
+	path = AudioBasic
+	url = https://github.com/ekbanasolutions/AudioBasic.git
